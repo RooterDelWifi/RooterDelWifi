@@ -1,6 +1,4 @@
-Soy Richard A. Nací en Cuba el 27/10/2006 y estoy interesado en 
-compartir todo lo que pueda con el mundo! Actualmente estoy 
-desarrollando pequeños proyectos de redes neuronales y mejorando en python.
+Hello World.
 
 <!---
 RooterDelWifi/RooterDelWifi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
